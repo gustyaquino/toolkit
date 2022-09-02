@@ -1,0 +1,3 @@
+testdata/uploads/**
+
+!testdata/uploads/.gitkeep
