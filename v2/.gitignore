@@ -1,0 +1,5 @@
+testdata/uploads/**
+testdata/downloads/**
+
+!testdata/uploads/.gitkeep
+!testdata/downloads/.gitkeep
